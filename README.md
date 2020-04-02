@@ -4,7 +4,7 @@
 
 ![img](https://github.com/jameshih/ethcolors/blob/master/screen.png?raw=true)
 
-### Instructions 
+### Instructions
 ```
-$ yarn install
-$ yarn start
+$ npm install
+$ npm start
